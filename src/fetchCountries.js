@@ -9,5 +9,3 @@ function fetchCountries(name) {
 }
 
 export {fetchCountries};
-
-// DONE
